@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  body {
+    background-image: url(./assets/losguerreros.jpg), url(./assets/banderavuelta.avif);
+    }
+  
+  .elgigante {
+    color: blue;
+  }
+  
